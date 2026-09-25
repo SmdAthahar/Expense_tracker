@@ -1,0 +1,29 @@
+PERSONAL EXPENSE REPORT
+=======================
+
+ID: 2
+Date: 2026-08-23
+Description: sandwich
+Category: food
+Amount: 150.0
+-----------------------
+ID: 3
+Date: 2026-08-12
+Description: petrol
+Category: vehcile
+Amount: 400.0
+-----------------------
+ID: 4
+Date: 2026-08-10
+Description: medicine
+Category: healthcare
+Amount: 200.0
+-----------------------
+ID: 5
+Date: 2026-08-25
+Description: burger
+Category: food
+Amount: 200.0
+-----------------------
+
+Total Expenses: 950.0
